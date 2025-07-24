@@ -25,7 +25,7 @@ export default function Navbar() {
             duration={500}
             className="text-white cursor-pointer hover:underline"
           >
-            FAQ
+            FAQs
           </ScrollLink>
 
           {/* Sign In / Sign Up Button */}
